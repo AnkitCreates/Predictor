@@ -1,5 +1,5 @@
-# Minor_Proj
 Bitcoin_Price_Predictor
+
     
 We'll predict the future price of Bitcoin using historical price and sentiment data.  We'll use data on the USD/BTC price from Yahoo Finance, along with data from Wikipedia about edits to the Bitcoin page.  
 
